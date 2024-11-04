@@ -1,1 +1,1 @@
-herle
+all the code in this are taken and remade to suit ipad bookmarklets, i should have all the original authors of the code in the description. if i dont please contact me.
