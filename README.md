@@ -1,1 +1,1 @@
-all the code in this are taken and remade to suit ipad bookmarklets, i should have all the original authors of the code in the description. if i dont please contact me.
+I use use GitHub to either transfer or store code for other reasons, like hosting a html project.
